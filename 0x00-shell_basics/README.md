@@ -1,0 +1,1 @@
+this is the script referred to from the 1st readme
